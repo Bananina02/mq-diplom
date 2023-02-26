@@ -14,7 +14,6 @@
   box-sizing: border-box;
   font-family: OpenSans;
   margin: 0;
-  /* 35px margin menu */
 }
 /* ===================================HEADER============================================ */
 .header {
@@ -22,7 +21,6 @@
 	width: 100%;
   background: url(/img/banner-bg.jpg) center center no-repeat;
 	background-size: cover;  
-  /* min-height: 449px; */
   z-index: 1;
   margin: 0 auto;
   box-sizing: border-box;

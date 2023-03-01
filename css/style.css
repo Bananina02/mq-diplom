@@ -80,13 +80,11 @@
   font-size: 13px;
   font-weight: 400;
   text-transform: uppercase;
+  margin-right: 35px;
 
 }
 .menu__item:hover {
   text-decoration: underline;
-}
-.menu__item:nth-child(n+1) {
-  margin-right: 35px; 
 }
 .title {
   display: flex;
@@ -166,7 +164,10 @@
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
-  word-spacing: 20px;
+  padding-right: 15px;
+}
+.trend_subject:hover {
+  text-decoration: underline;
 }
 .trend_caption {
   color: white;
